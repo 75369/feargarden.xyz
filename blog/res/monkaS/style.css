@@ -1,0 +1,60 @@
+/**
+	yes I know this is the exact same layout except simplified CSS
+	scenecore.net/reag
+/**
+
+/** elements **/
+body, html, h1, h2, h3 {margin: 0; padding: 0;}
+body {
+	background: #000 url('bg_pin.png') fixed repeat;
+	color: #fff;
+	font: 16px sans-serif;
+}
+a {
+	color: #f78c4a;
+	text-decoration: none;
+}
+b, strong {color: #fdd3b9;}
+iframe, img {max-width: 100%;}
+
+/** class **/
+.container {
+	margin: 1em auto;
+	max-width: 1200px;
+	padding: 0 1em;
+}
+.head {text-align: center;}
+.main {}
+.pagination {
+	height: 50px;
+	margin: 1em 0;
+}
+.pagination a {
+	background: #373737;
+	border-radius: 7px;
+	padding: 1em;
+}
+.pagination .next {float: right;}
+.pagination .previous {float: left;}
+.permalink {
+	float: right;
+	font-size: 80%;
+}
+.post {
+	background: #1a1a1a;
+	border-radius: 7px;
+	margin: 1em 0;
+	padding: 1em;
+}
+.post h1 {
+	color: #f78c4a;
+	display: block;
+	font-size: 150%;
+}
+.post h2 {font-size: 16px;}
+.post h2:before {
+	color: #fdd3b9;
+	content: "Posted: ";
+}
+
+/** id **/
