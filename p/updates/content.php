@@ -1,4 +1,5 @@
 <h1>update history</h1>
+<p><b>2 July 2020:</b> Updated index links.</p>
 <p><b>16 May 2020:</b> Minor text changes.</p>
 <p><b>13 May 2020:</b> Updated links.</p>
 <p><b>7 May 2020:</b> Revamped main page. This is really just a hub site now.</p>

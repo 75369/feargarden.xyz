@@ -8,14 +8,18 @@
 </p>
 <h2>links</h2>
 <p>
-	&#10014; <a href="https://git.feargarden.xyz/reactor" target="_blank">git.fg.xyz</a>
-	<br>My Gitea instance. Alternatively, I also have <a href="https://github.com/75369" target="_blank">Github</a>.
+	&#10014; <a href="https://git.feargarden.xyz/reactor" target="_blank">git.feargarden.xyz</a>
+	<br>My Gitea instance. I also have <a href="https://github.com/75369" target="_blank">Github</a>, but it's mostly just for saving things.
 </p>
 <p>
 	&#10014; <a href="https://scenecore.net/" target="_blank">scenecore.net</a>
 	<br>My Pleroma instance. <a href="https://scenecore.net/reag" target="_blank">@reag</a> is my main account.
 </p>
 <p>
-	&#10014; <a href="https://reagnyan.neocities.org/" target="_blank">reagnyan.neocities.org</a>
-	<br>Neocities presence.
+	&#10014; <a href="https://systematic.love/" target="_blank">systematic.love</a>
+	<br>My Misskey instance and secondary fedi server. <a href="https://systematic.love/@reactor" target="_blank">@reactor</a> is my main account here.
+</p>
+<p>
+	&#10014; <a href="https://reagnyan.moe/" target="_blank">reagnyan.moe</a>
+	<br>Neocities presence, just under a funky domain name.
 </p>
