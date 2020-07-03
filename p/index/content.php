@@ -1,6 +1,7 @@
 <p class="center"><img src="https://img.feargarden.xyz/site/about/shannon.gif" alt=""></p>
 <p>Welcome to <b>feargarden.xyz</b>. I'm Reagan, and this is my site.</p>
 <p>I can either be contacted by <a href="mailto:reagan@feargarden.xyz">email</a>, through <a href="https://scenecore.net/reag" target="_blank">the fediverse</a> (via any activitypub instance), or you can leave a message on my <a href="https://reagan.123guestbook.com/" target="_blank">guestbook</a>.
+<p>test words hello bonjour</p>
 <h2>on this site</h2>
 <p>
 	&#10014; <a href="blog/">blog</a>
