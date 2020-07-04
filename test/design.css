@@ -1,0 +1,79 @@
+body, html {margin: 0; padding: 0;}
+p {margin: 1em 0;}
+iframe, img {max-width: 100%;}
+.center {text-align: center;}
+.hover {text-decoration: underline dashed #000;}
+
+/** general elements **/
+body {
+    background: #000 url('https://img.feargarden.xyz/layout/fg/bg/falling_still.gif') fixed repeat;
+    color: #fff;
+    font: 16px 'Liberation Sans', sans-serif;
+}
+a {
+	color: #fbda73;
+	text-decoration: none;
+}
+a:hover {
+	color: #f78c4a;
+	transition: all 1s ease;
+}
+b {color: #f78c4a;}
+h1 {
+	color: #f78c4a;
+	font-size: 225%;
+	font-weight: bold;
+	margin: 0;
+	padding: 0.5em;
+	text-align: center;
+}
+h2 {
+	color: #f78c4a;
+	background: #313131;
+	border-radius: 7px;
+	margin: 0;
+	font-size: 100%;
+	padding: 7px;
+	text-align: left;
+}
+
+/** class **/
+.container {
+    box-sizing: border-box;
+	margin: 1em auto;
+	max-width: 1000px;
+}
+.content {
+    background: #1a1a1a;
+	border-radius: 7px;
+    box-sizing: border-box;
+    margin: 1em;
+    padding: 1em;
+}
+.navigation {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 1em;
+}
+.navigation .icon, .navigation .title, .navigation a {
+	border-radius: 7px;
+    margin: 0 0.5em;
+}
+.navigation .icon {
+    margin: 0 0.5em 0 0;
+    height: 33px;
+    width: 33px;
+}
+.navigation .title {
+    color: #f78c4a;
+    font-weight: bold;
+}
+.navigation a {
+    color: #f78c4a;
+	background: #313131;
+    padding: 7px;
+}
+
+/** id **/
