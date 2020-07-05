@@ -1,3 +1,4 @@
+@import url('https://img.feargarden.xyz/layout/fonts/libsans/font.css');
 body, html {margin: 0; padding: 0;}
 p {margin: 1em 0;}
 iframe, img {max-width: 100%;}
@@ -49,6 +50,20 @@ h2 {
     box-sizing: border-box;
     margin: 1em;
     padding: 1em;
+}
+.blogpost h1 {
+	display: block;
+	font-size: 150%;
+	text-align: left;
+}
+.blogpost h2 {
+	background: none;
+	font-size: 16px;
+	padding: 0;
+}
+.blogpost h2:before {
+	color: #fdd3b9;
+	content: "Posted: ";
 }
 .navigation {
     align-items: center;
