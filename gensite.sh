@@ -7,3 +7,4 @@ for file in pages/*; do
     rm temp.html
 done
 mv pages/*.html ./
+echo "Script finished"
