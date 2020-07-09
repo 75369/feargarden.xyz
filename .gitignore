@@ -1,10 +1,13 @@
-# ---> VisualStudioCode
+# VS Code
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
-
+# Composer shite
 blog/vendor/*
+# Generated files
 /*.html
+# Cleaning script (for local use)
+/clean.sh
