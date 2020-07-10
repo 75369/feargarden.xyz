@@ -2,13 +2,16 @@
 
 My site which has undergone too many revisions.
 
-excuse the garbage btw
+This is the source for the site, which is not actually what is publically viewable -- the actual website is generated via `gensite.sh` on `git push`. Essentially, the current version of the site is a bunch of markdown files which have been converted to the HTML and then stiched together with some layout templates through black magic. Older versions used PHP, but this is cleaner and more fun.
+
+excuse the garbage btw, I am not a programmer
 
 ## Links
 
 Current site: https://feargarden.xyz
 
 Old Neocities link: https://feargarden.neocities.org
+
 
 ## ALSO
 
