@@ -1,10 +1,11 @@
 #!/bin/bash 
 printf "# blog\n\n![header](https://feargarden.xyz/blog/res/monkaS/sayo.png)\n\nMy personal blog." > pages/blog.md
 for file in posts/*; do
-    filename="${file%.*}"
+    blogid=$(basename "${file%.*}")
+    echo $blogid
     title=$(head -1 $file | cut -c 3-) 
     date=$(sed '3q;d' $file | cut -c 4-)
-    printf "\n\n* [$title](blog/$filename.html) $date" >> pages/blog.md
+    printf "\n\n* [$title]($blogid.html) $date" >> pages/blog.md
 done
 for file in pages/*; do
     filename="${file%.*}"
