@@ -9,5 +9,7 @@
 blog/vendor/*
 # Generated files
 /*.html
+/blog/
+/blog2/
 # Cleaning script (for local use)
 /clean.sh
