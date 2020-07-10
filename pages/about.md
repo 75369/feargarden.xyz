@@ -1,6 +1,6 @@
 # about me
 
-<img src="https://img.feargarden.xyz/site/about/shannon.gif" alt="Shannon from Umineko" style="float:right;">
+<img src="/images/shannon.gif" alt="Shannon from Umineko" style="float:right;">
 
 **The basics**
 
@@ -22,4 +22,4 @@ My main interests include Linux and other related things that involve me sitting
 
 I also play some video games; I'm a fan of The Elder Scrolls (mostly Online rn), Half-Life, Doom, Project Diva, and When They Cry. I also play whatever else happens to catch my eye, but I'm no hardcore enthusiast by any means.
 
-![This user has invested in moon tourism.](https://img.feargarden.xyz/site/about/moontourism.png)
+![This user has invested in moon tourism.](/images/moontourism.png)

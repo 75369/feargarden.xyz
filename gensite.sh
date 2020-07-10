@@ -1,5 +1,5 @@
 #!/bin/bash 
-printf "# blog\n\n![header](https://feargarden.xyz/blog/res/monkaS/sayo.png)\n\nMy personal blog." > pages/blog.md
+printf "# blog\n\n![header](/images/sayo.png)\n\nMy personal blog." > pages/blog.md
 for file in posts/*; do
     blogid=$(basename "${file%.*}")
     echo $blogid
