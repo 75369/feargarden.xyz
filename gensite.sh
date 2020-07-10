@@ -2,7 +2,6 @@
 printf "# blog\n\n![header](/images/sayo.png)\n\nMy personal blog." > pages/blog.md
 for file in posts/*; do
     blogid=$(basename "${file%.*}")
-    echo $blogid
     title=$(head -1 $file | cut -c 3-) 
     date=$(sed '3q;d' $file | cut -c 4-)
     printf "\n\n* [$title]($blogid.html) $date" >> pages/blog.md
