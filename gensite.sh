@@ -1,12 +1,11 @@
 #!/bin/bash 
-printf "# blog\n\nMy personal blog." > pages/blog.md
+printf "# blog\n\n->![header](/images/sayo.png)<-\n\nMy personal blog." > pages/blog.md
 for file in posts/*; do
     blogid=$(basename "${file%.*}")
     title=$(head -1 $file | cut -c 3-) 
     date=$(sed '3q;d' $file | cut -c 4-)
     printf "\n\n* [$title]($blogid.html) $date" >> pages/blog.md
 done
-printf "\n\n->![header](/images/sayo.png)<-" >> pages/blog.md
 for file in pages/*; do
     filename="${file%.*}"
     markdown -o temp.html -F MKD_AUTOLINK "$file"

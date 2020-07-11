@@ -20,6 +20,6 @@
 
 * Github: [75369](https://github.com/75369)
 
-* Neocities: [reagnyan](https://neocities.org/sites/reagnyan)
+* Neocities: [reagnyan](https://neocities.org/site/reagnyan)
 
 * Steam: [961](https://steamcommunity.com/id/arisugawadice)
