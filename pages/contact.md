@@ -16,7 +16,7 @@
 
 * <i class="fa fa-envelope fa-lg"></i> Email: [reagan@feargarden.xyz](mailto:reagan@feargarden.xyz), [reag@tuta.io](mailto:reag@tuta.io)
 
-* <i class="fa fa-matrix fa-lg"></i> Matrix: [reactor:blob.cat](https://matrix.to/#/@reactor:blob.cat)
+* <i class="fa fa-matrix-org fa-lg"></i> Matrix: [reactor:blob.cat](https://matrix.to/#/@reactor:blob.cat)
 
 * <i class="fa fa-xmpp fa-lg"></i> XMPP: [reactor@systematic.love](xmpp:reactor@systematic.love)
 
