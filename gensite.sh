@@ -10,7 +10,7 @@ for file in pages/*; do
     filename="${file%.*}"
     markdown -o temp.html -F MKD_AUTOLINK "$file"
     cat res/template_header.html res/template_page.html temp.html res/template_footer.html > $filename.html
-    tidy -q -m $filename.html --drop-empty-elements no
+    tidy  --drop-empty-elements no -q -m $filename.html
     rm temp.html
 done
 mkdir blog
@@ -20,7 +20,7 @@ for file in posts/*; do
     filename="${file%.*}"
     markdown -o temp.html -F MKD_AUTOLINK "$file"
     cat res/template_header.html res/template_blog.html temp.html res/template_footer.html > $filename.html
-    tidy -q -m $filename.html --drop-empty-elements no
+    tidy --drop-empty-elements no -q -m $filename.html
     rm temp.html
 done
 mv posts/*.html blog/
