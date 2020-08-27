@@ -1,6 +1,6 @@
 # about me
 
-<img src="/images/shannon.gif" alt="Shannon from Umineko" style="float:right;">
+<img src="/images/me.png" alt="A photo my friend took of me :3c Not my dog tho." style="float:right;" width="200px">
 
 **The basics**
 
@@ -21,5 +21,7 @@ This is my website where I post a lot of bullshit. I'm some dumbass hobbyist wit
 My main interests include Linux and other related things that involve me sitting at my PC and avoiding human contact.
 
 I also play some video games; I'm a fan of The Elder Scrolls (mostly Online rn), Half-Life, Doom, Project Diva, and When They Cry. I also play whatever else happens to catch my eye, but I'm no hardcore enthusiast by any means.
+
+I tend to write more about myself and my interests on my [Neocities](https://reagnyan.moe).
 
 ![This user has invested in moon tourism.](/images/moontourism.png)

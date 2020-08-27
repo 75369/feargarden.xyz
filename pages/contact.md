@@ -6,19 +6,13 @@
 
 * <i class="fa fa-pleroma fa-lg"></i> Pleroma: [@reag@scenecore.net](https://scenecore.net/reag)
 
-* <i class="fa fa-activitypub fa-lg"></i> Misskey: [@reactor@systematic.love](https://systematic.love/@reactor)
-
-* <i class="fa fa-pixelfed fa-lg"></i> Pixelfed: [@vampyre@pixelfed.blob.cat](https://pixelfed.blob.cat/vampyre)
-
 **Direct:**
 
 * <i class="fa fa-discord fa-lg"></i> Discord: 961#8190
 
-* <i class="fa fa-envelope fa-lg"></i> Email: [reagan@feargarden.xyz](mailto:reagan@feargarden.xyz), [reag@tuta.io](mailto:reag@tuta.io)
+* <i class="fa fa-envelope fa-lg"></i> Email: [reactor@systematic.love](mailto:reactor@systematic.love)
 
-* <i class="fa fa-matrix-org fa-lg"></i> Matrix: [reactor:blob.cat](https://matrix.to/#/@reactor:blob.cat)
-
-* <i class="fa fa-xmpp fa-lg"></i> XMPP: [reactor@systematic.love](xmpp:reactor@systematic.love)
+* <i class="fa fa-matrix-org fa-lg"></i> Matrix: [@reactor:blob.cat](https://matrix.to/#/@reactor:blob.cat)
 
 **Other:**
 
