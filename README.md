@@ -12,6 +12,10 @@ Current site: https://feargarden.xyz
 
 Old Neocities link: https://feargarden.neocities.org
 
+## Resources used
+
+* Fork Awesome: https://forkaweso.me/
+* Liberations Sans: https://github.com/liberationfonts/liberation-fonts
 
 ## ALSO
 

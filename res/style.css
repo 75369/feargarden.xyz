@@ -1,4 +1,4 @@
-@import url('https://img.feargarden.xyz/layout/fonts/libsans/font.css');
+@import url('/img/layout/fonts/libsans/font.css');
 body, html {margin: 0; padding: 0;}
 p {margin: 1em 0;}
 iframe, img {max-width: 100%;}
@@ -7,7 +7,7 @@ iframe, img {max-width: 100%;}
 
 /** general elements **/
 body {
-    background: #000 url('https://img.feargarden.xyz/layout/fg/bg/falling_still.gif') fixed repeat;
+    background: #000 url('/img/layout/fg/bg/falling_still.gif') fixed repeat;
     color: #fff;
     font: 16px 'Liberation Sans', sans-serif;
 }
