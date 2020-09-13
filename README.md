@@ -6,6 +6,13 @@ This is the source for the site, which is not actually what is publically viewab
 
 excuse the garbage btw, I am not a programmer
 
+## To-do
+
+* Make the script more efficient (reduce repetiton à la DRY)
+* Reverse sort blog posts to put the newest and most epic ones first
+* ???
+* die ig
+
 ## Links
 
 Current site: https://feargarden.xyz
@@ -15,7 +22,7 @@ Old Neocities link: https://feargarden.neocities.org
 ## Resources used
 
 * Fork Awesome: https://forkaweso.me/
-* Liberations Sans: https://github.com/liberationfonts/liberation-fonts
+* Liberation Sans: https://github.com/liberationfonts/liberation-fonts
 
 ## ALSO
 

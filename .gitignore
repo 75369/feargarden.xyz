@@ -6,7 +6,8 @@
 !.vscode/extensions.json
 *.code-workspace
 # Generated files
-/*.html
-/blog/
+/output/*.html
+/output/blog/
+/pages/blog.md
 # Cleaning script (for local use)
 /clean.sh

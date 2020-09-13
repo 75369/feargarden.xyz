@@ -13,9 +13,9 @@ for file in pages/*; do
     tidy -config res/tidy_config.txt $filename.html
     rm temp.html
 done
-mkdir blog
-mv pages/blog.html blog/index.html
-mv pages/*.html ./
+mkdir output/blog
+mv pages/blog.html output/blog/index.html
+mv pages/*.html output/
 for file in posts/*; do
     filename="${file%.*}"
     markdown -o temp.html -F MKD_AUTOLINK "$file"
@@ -23,5 +23,5 @@ for file in posts/*; do
     tidy -config res/tidy_config.txt $filename.html
     rm temp.html
 done
-mv posts/*.html blog/
+mv posts/*.html output/blog/
 echo "Script finished"

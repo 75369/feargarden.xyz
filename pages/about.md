@@ -2,7 +2,7 @@
 
 <img src="/images/me.png" alt="A photo my friend took of me :3c Not my dog tho." style="float:right;" width="200px">
 
-The name's Reagan. I'm 20, an unironic nightcore listener, and a cryptid with a computer. I hail from the sewers of Ontario, Canada.
+The name's Reagan. I'm 21, an unironic nightcore listener, and a cryptid with a computer. I hail from the sewers of Ontario, Canada.
 
 This is my website where I post a lot of bullshit. I'm some dumbass hobbyist with no formal education, but a passion for technology regardless. I've been a home Linux user since about 2013-ish, and have been running servers as well since 2018. I tend to mess around with HTML/CSS and PHP a lot, but I don't really do anything that's particularly amazing and revolutionary. In addition to working on this site, I'm also fairly active on Neocites (... I say as I have not updated my site in months, oops). 
 
