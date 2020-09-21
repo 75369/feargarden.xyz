@@ -2,9 +2,20 @@
 
 <img src="/images/me.png" alt="A photo my friend took of me :3c Not my dog tho." style="float:right;" width="200px">
 
+**Short version**
+
+✞ I'm Reagan!
+✞ Age: 21 years old (estimated, uncomfirmed)
+✞ Gender: [fuck you](/images/lion.jpg)
+✞ Nationality: Canadian
+✞ Dirt eater, PhD
+✞ I think you know / I'm damn precious / And, hell yeah / I'm the motherfuckin' princess / I can tell you like me too / And you know I'm right
+
+**Long version**
+
 The name's Reagan. I'm 21, an unironic nightcore listener, and a cryptid with a computer. I hail from the sewers of Ontario, Canada.
 
-This is my website where I post a lot of bullshit. I'm some dumbass hobbyist with no formal education, but a passion for technology regardless. I've been a home Linux user since about 2013-ish, and have been running servers as well since 2018. I tend to mess around with HTML/CSS and PHP a lot, but I don't really do anything that's particularly amazing and revolutionary. In addition to working on this site, I'm also fairly active on Neocites (... I say as I have not updated my site in months, oops). 
+This is my website where I post a lot of bullshit. I'm some dumbass hobbyist with no formal education, but a passion for technology regardless. I've been a home Linux user since about 2013-ish, and have been running servers as well since 2018. I tend to mess around with HTML/CSS and PHP a lot, but I don't really do anything that's particularly amazing and revolutionary -- I am no "programmer" as the youths call it. In addition to working on this site, I'm also fairly active on Neocites (... I say as I have not updated my site there in months, oops). 
 
 My main interests include Linux and other related things that involve me sitting at my PC and avoiding human contact.
 
