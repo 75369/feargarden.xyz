@@ -6,7 +6,7 @@
 
 * I'm Reagan!
 * Age: 21 years old (estimated, uncomfirmed)
-* Gender: [fuck you (they)](/images/lion.jpg)
+* Gender: [fuck you](/images/lion.jpg)
 * Dirt eater, PhD
 * I think you know / I'm damn precious / And, hell yeah / I'm the motherfuckin' princess / I can tell you like me too / And you know I'm right
 
