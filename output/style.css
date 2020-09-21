@@ -32,6 +32,7 @@ h2 {
 	color: #f78c4a;
 	background: #313131;
 	border-radius: 7px;
+	display: inline-block;
 	margin: 0;
 	font-size: 100%;
 	padding: 7px;

@@ -2,15 +2,15 @@
 
 <img src="/images/me.png" alt="A photo my friend took of me :3c Not my dog tho." style="float:right;" width="200px">
 
-**Short version**
+## Short version
 
 * I'm Reagan!
 * Age: 21 years old (estimated, uncomfirmed)
-* Gender: [fuck you](/images/lion.jpg)
+* Gender: [fuck you (they)](/images/lion.jpg)
 * Dirt eater, PhD
 * I think you know / I'm damn precious / And, hell yeah / I'm the motherfuckin' princess / I can tell you like me too / And you know I'm right
 
-**Long version**
+## Long version
 
 The name's Reagan. I'm 21, an unironic nightcore listener, and a cryptid with a computer. I hail from the sewers of Ontario, Canada.
 

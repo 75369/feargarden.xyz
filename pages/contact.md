@@ -1,13 +1,13 @@
 # contact
 
-**The fediverse:**
+## The fediverse:
 
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-pleroma fa-lg"></i> Pleroma: <a href="https://scenecore.net/reag">@reag@scenecore.net</a>, <a href="https://blob.cat/reactor">@reactor@blob.cat</a></li>
   <li><i class="fa-li fa fa-pixelfed fa-lg"></i> Pixelfed: <a href="https://pixelfed.blob.cat/vampyre">@vampyre@pixelfed.blob.cat</a>
 </ul>
 
-**Direct:**
+## Direct:
 
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-envelope fa-lg"></i> Email: <a href="mailto:reagan@systematic.love">reagan@systematic.love</a></li>
@@ -16,7 +16,7 @@
   <li><i class="fa-li fa fa-discord fa-lg"></i> Discord (tf is wrong with you): 961#8190</li>
 </ul>
 
-**Other:**
+## Other:
 
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-gitea fa-lg"></i> Gitea: <a href="https://git.feargarden.xyz/reactor">reactor@git.feargarden.xyz</a></li>
