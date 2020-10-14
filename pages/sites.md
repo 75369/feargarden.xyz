@@ -2,9 +2,9 @@
 
 <img src="/images/shannon.gif" alt="Shannon from Umineko" style="float:right;">
 
-![Post from @mewmew@blob.cat "@reag how many sites do you have holy- every time I look at your sites it seems like another one comes out of hiding"](/images/mewmew.png)
-
 I have a number of other sites/services/whatever that I run.
+
+![Post from @mewmew@blob.cat "@reag how many sites do you have holy- every time I look at your sites it seems like another one comes out of hiding"](/images/mewmew.png)
 
 ## &#10014; [git.feargarden.xyz](https://git.feargarden.xyz) 
 
@@ -16,7 +16,7 @@ My [Pleroma](https://pleroma.social) instance. [@reag](https://scenecore.net/rea
 
 ## &#10014; [systematic.love](https://systematic.love)
 
-Formerly my [Misskey](https://join.misskey.page) instance and also my [XMPP](https://xmpp.org) server (specifically running [Prosody](https://prosody.im)). In the past, I've also used it to test [Matrix/Synapse](https://matrix.org) and [Mastodon](https://joinmastodon.org). Idk what I'm doing with this now. 
+Currently my [XMPP](https://xmpp.org) server, specifically running [Prosody](https://prosody.im). Formerly my [Misskey](https://join.misskey.page) instance. In the past, I've also used it to test [Matrix/Synapse](https://matrix.org) and [Mastodon](https://joinmastodon.org).
 
 ## &#10014; [reagnyan.moe](https://reagnyan.moe)
 

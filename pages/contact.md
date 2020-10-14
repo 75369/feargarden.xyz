@@ -14,6 +14,7 @@
   <li><i class="fa-li fa fa-book fa-lg"></i> Guestbook: <a href="https://reagan.123guestbook.com">:3c</a></li>
   <li><i class="fa-li fa fa-matrix-org fa-lg"></i> Matrix: <a href="https://matrix.to/#/@reactor:blob.cat">@reactor:blob.cat</a></li>
   <li><i class="fa-li fa fa-discord fa-lg"></i> Discord (tf is wrong with you): 961#8190</li>
+  <li><i class="fa-li fa fa-xmpp fa-lg"></i> XMPP: invisible@systematic.love</li>
 </ul>
 
 ## Other:
