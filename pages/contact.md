@@ -3,7 +3,8 @@
 ## The fediverse:
 
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-pleroma fa-lg"></i> Pleroma: <a href="https://scenecore.net/reag">@reag@scenecore.net</a>, <a href="https://blob.cat/reactor">@reactor@blob.cat</a></li>
+  <li><i class="fa-li fa fa-pleroma fa-lg"></i> Pleroma: <a href="https://scenecore.net/reag">@reag@scenecore.net</a>
+  <li><i class="fa-li fa fa-pleroma fa-lg"></i> Pleroma alt: <a href="https://blob.cat/reactor">@reactor@blob.cat</a></li>
   <li><i class="fa-li fa fa-pixelfed fa-lg"></i> Pixelfed: <a href="https://pixelfed.blob.cat/vampyre">@vampyre@pixelfed.blob.cat</a>
 </ul>
 
@@ -14,12 +15,13 @@
   <li><i class="fa-li fa fa-book fa-lg"></i> Guestbook: <a href="https://reagan.123guestbook.com">:3c</a></li>
   <li><i class="fa-li fa fa-matrix-org fa-lg"></i> Matrix: <a href="https://matrix.to/#/@guriguri:jackpotsadgirl.net">@guriguri:jackpotsadgirl.net</a></li>
   <li><i class="fa-li fa fa-discord fa-lg"></i> Discord (tf is wrong with you): 961#8190</li>
-  <li><i class="fa-li fa fa-xmpp fa-lg"></i> XMPP: invisible@systematic.love</li>
+  <li><i class="fa-li fa fa-xmpp fa-lg"></i> XMPP (currently down): <a href="xmpp:invisible@systematic.love">invisible@systematic.love</a></li>
 </ul>
 
 ## Other:
 
 <ul class="fa-ul">
+  <li><i class="fa-li fa fa-list fa-lg"></i> Anilist: <a href="https://anilist.co/user/arisugawadice/">arisugawadice</a></li>
   <li><i class="fa-li fa fa-gitea fa-lg"></i> Gitea: <a href="https://git.feargarden.xyz/reactor">reactor@git.feargarden.xyz</a></li>
   <li><i class="fa-li fa fa-github fa-lg"></i> Github: <a href="https://github.com/75369">75369</a></li>
   <li><i class="fa-li fa fa-globe-w fa-lg"></i> Neocities: <a href="https://neocities.org/site/reagnyan">reagnyan</a></li>

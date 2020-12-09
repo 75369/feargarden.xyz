@@ -1,0 +1,38 @@
+/** elements **/
+body {
+  background: #fff;
+  font-family: 'MS Gothic', sans-serif;
+  font-size: 18px;
+}
+a {
+  color: #ff3232;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover {color: #991e1e;}
+img {max-width: 100%;}
+h1 {
+  background: url('bg/teatime2.gif');
+  margin: auto;
+  padding: 3px;
+  width: 70%;
+}
+/** classes **/
+.container {
+  margin: auto;
+  width: 400px;
+}
+.content {
+  border: #ff3232 3px solid;
+  padding: 10px;
+  text-align: center;
+}
+.divider {
+  background: url('') no-repeat;
+  display: block;
+  height: 20px;
+  margin: 10px auto;
+  width: 230px;
+}
+.hover {text-decoration: underline #000 dotted;}
+/** ids **/
