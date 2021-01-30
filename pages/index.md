@@ -1,12 +1,12 @@
 # hello
 
-<img src="/images/shannon.gif" alt="Shannon from Umineko" style="float:right;">
-
 Welcome to **feargarden.xyz**. I'm Reagan, and this is my main site.
 
 I can either be contacted by [email](mailto:reagan@systematic.love), through [the fediverse](https://systematic.love/nyarlathotep) (via any activitypub instance), or you can leave a message on my [guestbook](https://reagan.123guestbook.com).
 
 # my other sites
+
+<img src="/images/shannon.gif" alt="Shannon from Umineko" style="float:right;">
 
 ## [git.feargarden.xyz](https://git.feargarden.xyz) 
 
